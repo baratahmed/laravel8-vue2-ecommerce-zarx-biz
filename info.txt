@@ -1,0 +1,8 @@
+composer require laravel/ui
+
+php artisan ui vue --auth
+
+npm install laravel-mix@latest
+npm install autoprefixer@10.4.5 --save-exact
+
+npm run dev
